@@ -26,9 +26,11 @@ console.log("Student dropped from class, ", dropped);
 console.log("Students: ", students);
 console.log("Students Length: ", students.length);
 
-
+console.log("----------------------------");
+console.log("Practice 1");
 // Practice 1
 let testPhase = [];
 testPhase.push("test");
 testPhase.push("tested");
 testPhase.push("tester");
+console.log(testPhase.length);
