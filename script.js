@@ -19,3 +19,9 @@ console.log("Adding 'Anna' to the students array");
 students.push("Anna");
 console.log("Students: ", students);
 console.log("Students Length: ", students.length);
+
+console.log("Remove 'Anna' from the students array");
+let dropped = students.pop();
+console.log("Student dropped from class, ", dropped);
+console.log("Students: ", students);
+console.log("Students Length: ", students.length);
