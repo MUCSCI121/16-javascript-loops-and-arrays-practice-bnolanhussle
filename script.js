@@ -34,4 +34,14 @@ testPhase.push("test");
 testPhase.push("tested");
 testPhase.push("tester");
 console.log("Array length: ", testPhase.length);
-console.log("Last value: ", testPhase[]);
+
+// Using the specifice index to get the last value
+console.log("Last value: ", testPhase[2]);
+
+// Using the length operation to get the last value
+console.log("Last value: ", testPhase[testPhase.length - 1]);
+console.log("First value: ", testPhase[0]);
+
+
+console.log("----------------------------");
+console.log("Practice 2");
