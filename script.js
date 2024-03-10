@@ -1,7 +1,7 @@
-let count = 55; // single value variable definition
+let num = 55; // single value variable definition
 let students = []; // array variable definition
 
-console.log("Count: ", count);
+console.log("Count: ", num);
 console.log("Students: ", students);
 console.log("Students Length: ", students.length);
 // Index:    0       1            2         3
@@ -42,6 +42,12 @@ console.log("Last value: ", testPhase[2]);
 console.log("Last value: ", testPhase[testPhase.length - 1]);
 console.log("First value: ", testPhase[0]);
 
-
 console.log("----------------------------");
 console.log("Practice 2");
+let numbers = [1, 3, 5, 8];
+let count = 0;
+while (count < numbers.length) {
+  console.log("Value of numbers array at index ", count);
+  console.log("Value is ", numbers[count]);
+  count = count + 1;
+}
