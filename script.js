@@ -4,7 +4,12 @@ let students = []; // array variable definition
 console.log("Count: ", count);
 console.log("Students: ", students);
 console.log("Students Length: ", students.length);
-
+// Index:    0       1            2         3
 students = ["John", "Stephanie", "George", "Courtney"];
 console.log("Students: ", students);
 console.log("Students Length: ", students.length);
+
+console.log("First value in the array, index 0, ", students[0]);
+console.log("Second value in the array, index 1, ", students[1]);
+console.log("Third value in the array, index 2, ", students[2]);
+console.log("Fourth value in the array, index 3, ", students[3]);
