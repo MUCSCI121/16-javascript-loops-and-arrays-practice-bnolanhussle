@@ -33,4 +33,5 @@ let testPhase = [];
 testPhase.push("test");
 testPhase.push("tested");
 testPhase.push("tester");
-console.log(testPhase.length);
+console.log("Array length: ", testPhase.length);
+console.log("Last value: ", testPhase[]);
