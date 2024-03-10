@@ -13,3 +13,4 @@ console.log("First value in the array, index 0, ", students[0]);
 console.log("Second value in the array, index 1, ", students[1]);
 console.log("Third value in the array, index 2, ", students[2]);
 console.log("Fourth value in the array, index 3, ", students[3]);
+console.log("Fifth value in the array, index 4, ", students[4]);
