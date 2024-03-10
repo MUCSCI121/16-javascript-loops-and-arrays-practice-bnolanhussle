@@ -27,3 +27,8 @@ console.log("Students: ", students);
 console.log("Students Length: ", students.length);
 
 
+// Practice 1
+let testPhase = [];
+testPhase.push("test");
+testPhase.push("tested");
+testPhase.push("tester");
