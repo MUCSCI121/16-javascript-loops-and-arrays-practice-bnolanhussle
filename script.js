@@ -19,7 +19,3 @@ console.log("Adding 'Anna' to the students array");
 students.push("Anna");
 console.log("Students: ", students);
 console.log("Students Length: ", students.length);
-
-students[7] = "Chris";
-console.log("Students: ", students);
-console.log("Students Length: ", students.length);
