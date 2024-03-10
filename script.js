@@ -20,6 +20,6 @@ students.push("Anna");
 console.log("Students: ", students);
 console.log("Students Length: ", students.length);
 
-students[students.length] = "Chris";
+students[7] = "Chris";
 console.log("Students: ", students);
 console.log("Students Length: ", students.length);
